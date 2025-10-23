@@ -1,5 +1,5 @@
 nginx:latest
-redis:latest
+redis:6.2
 nacos:latest
 #rabbitmq:latest
 #支持私库
